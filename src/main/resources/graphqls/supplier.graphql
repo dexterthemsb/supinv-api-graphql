@@ -1,0 +1,9 @@
+type Supplier {
+    id: ID!
+    name: String!
+    address: String!
+    contact_person: String!
+    email: String!
+    mobile: String!
+    reg_date: Date!
+}
